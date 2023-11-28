@@ -4,6 +4,7 @@
 - yil011@ucsd.edu
 - Section: B18
 - Mentor: Brian Duke and Berk Ustun
+  
 # Questions
 ## 1. What is the most interesting topic covered in your domain this quarter?
   - In this quarter, the most interesting topic covered this quarter seems to be the integration of Language Models like BERT in classification tasks, and the application of Natural Language Processing (NLP) in financial contexts, specifically in calculating cash scores based on user transactions.
